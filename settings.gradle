@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Ally"
 include ':app'
+include ':git_Try'
