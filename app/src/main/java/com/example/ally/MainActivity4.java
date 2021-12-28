@@ -19,4 +19,8 @@ public class MainActivity4 extends AppCompatActivity {
     public void nextActivity1(View view) {
         startActivity(new Intent(getApplicationContext(),MainActivity5.class));
     }
+
+    public void openPersonalityTest(View view) {
+        startActivity(new Intent(getApplicationContext(),personalityTest.class));
+    }
 }
