@@ -20,7 +20,7 @@ public class MainActivity4 extends AppCompatActivity {
         startActivity(new Intent(getApplicationContext(),MainActivity5.class));
     }
 
-    public void openPersonalityTest(View view) {
-        startActivity(new Intent(getApplicationContext(),personalityTest.class));
+    public void openTest(View view) {
+        startActivity(new Intent(getApplicationContext(),Test.class));
     }
 }
