@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ally</string>
+    <string name="welcome_you_are_logged_in">Welcome, You are logged in</string>
+    <string name="logout">Logout</string>
 </resources>
