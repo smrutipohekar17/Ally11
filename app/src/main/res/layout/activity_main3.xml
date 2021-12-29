@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#00FFFF"
     android:textAlignment="center"
-    tools:context=".MainActivity3">
+    tools:context=".WelcomePage">
 
     <TextView
         android:id="@+id/textView4"

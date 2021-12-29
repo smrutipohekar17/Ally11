@@ -19,31 +19,31 @@
             android:name=".personalityTest"
             android:exported="false" />
         <activity
-            android:name=".MainActivity9"
+            android:name=".Profile"
             android:exported="false" />
         <activity
-            android:name=".MainActivity8"
+            android:name=".PersonalChat"
             android:exported="false" />
         <activity
-            android:name=".MainActivity7"
+            android:name=".SocialWindow"
             android:exported="false" />
         <activity
-            android:name=".MainActivity6"
+            android:name=".GroupChat"
             android:exported="false" />
         <activity
-            android:name=".MainActivity5"
+            android:name=".HomePage"
             android:exported="false" />
         <activity
-            android:name=".MainActivity4"
+            android:name=".BioPage"
             android:exported="false" />
         <activity
-            android:name=".MainActivity3"
+            android:name=".WelcomePage"
             android:exported="false" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".LoginPage"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".IntroPage"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.Toast;
 
-public class MainActivity2 extends AppCompatActivity {
+public class LoginPage extends AppCompatActivity {
 
     CheckBox termsnConditions;
     @Override
@@ -23,7 +23,7 @@ public class MainActivity2 extends AppCompatActivity {
 
     public void nextActivity(View view) {
         if (termsnConditions.isChecked()){
-            startActivity(new Intent(getApplicationContext(),MainActivity3.class));
+            startActivity(new Intent(getApplicationContext(), WelcomePage.class));
         }
         else {
             Toast.makeText(getApplicationContext(), "Please Accept Terms & Conditions", Toast.LENGTH_SHORT).show();

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#0ABFBF"
     android:backgroundTint="#00FFFF"
-    tools:context=".MainActivity">
+    tools:context=".IntroPage">
 
     <TextView
         android:id="@+id/textView"

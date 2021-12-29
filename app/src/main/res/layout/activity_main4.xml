@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:backgroundTint="#2FA695"
-    tools:context=".MainActivity4">
+    tools:context=".BioPage">
 
     <ImageView
         android:id="@+id/imageView2"

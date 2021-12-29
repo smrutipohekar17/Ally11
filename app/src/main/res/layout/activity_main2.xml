@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:backgroundTint="#03DAC5"
     android:orientation="vertical"
-    tools:context=".MainActivity2">
+    tools:context=".LoginPage">
 
     <EditText
         android:id="@+id/editTextTextPersonName"
