@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.8"
-        app:srcCompat="@drawable/allydraftlogo" />
+        app:srcCompat="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView5"
